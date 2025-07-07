@@ -31,11 +31,11 @@ Welcome to **Rising Motors**, a stylish one-page car company website built using
 
 ### 💻 Desktop View
 
-![Homepage Screenshot](./screenshots/desktop-screen.png)
+![Homepage Screenshot](./Screenshots/desktop-screen.png)
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](./screenshots/mobile-screen.png)
+![Mobile Screenshot](./Screenshots/mobile-screen.png)
 
 ---
 

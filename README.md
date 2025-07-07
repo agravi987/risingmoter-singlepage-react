@@ -29,13 +29,17 @@ Welcome to **Rising Motors**, a stylish one-page car company website built using
 
 > Add these screenshots in your project folder under `screenshots/` and update the paths below.
 
+### Live Preview
+
+[RisingMotors Website](https://risingmotors.netlify.app/)
+
 ### 💻 Desktop View
 
-![Homepage Screenshot](./screenshots/desktop-screen.png)
+![Homepage Screenshot](./Screenshots/desktop-screen.png)
 
 ### 📱 Mobile View
 
-![Mobile Screenshot](./screenshots/mobile-screen.png)
+![Mobile Screenshot](./Screenshots/mobile-screen.png)
 
 ---
 

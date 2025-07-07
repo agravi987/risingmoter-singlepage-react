@@ -1,12 +1,49 @@
-# React + Vite
+# 🚗 Rising Motors – Car Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Rising Motors**, a stylish one-page car company website built using **React** and **Tailwind CSS v4**. This project was designed to showcase modern UI design, responsive layouts, and to help learn React concepts step-by-step.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- 🎥 Fullscreen **background video** hero section
+- 🔝 Elegant **fixed navbar** with gradient theme and mobile support
+- 🚘 Responsive **car showcase** with local & external images
+- ✅ Informative **About Us** section with icons
+- 📬 Clean and simple **Contact form**
+- 🧩 Stylish **footer with social icons**
+- 📱 Fully **responsive** for mobile, tablet, and desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS v4**
+- **Vite** (for fast development)
+- **React Icons**
+
+---
+
+## 📸 Screenshots
+
+> Add these screenshots in your project folder under `screenshots/` and update the paths below.
+
+### 💻 Desktop View
+
+![Homepage Screenshot](./screenshots/desktop-screen.png)
+
+### 📱 Mobile View
+
+![Mobile Screenshot](./screenshots/mobile-screen.png)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/rising-motors.git
+cd rising-motors
+```
